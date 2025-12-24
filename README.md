@@ -1,0 +1,2 @@
+# Econera
+Discord Economy Bot ! 
